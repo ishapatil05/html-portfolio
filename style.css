@@ -1,0 +1,131 @@
+*{
+    text-align: center;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+.brown{
+    color: brown;
+}
+.orange{
+    color: orange;
+}
+#hello{
+    background-color: darkseagreen;
+    color: whitesmoke;
+}
+#world{
+
+    background-color: #C58940;
+    color: whitesmoke;
+}
+
+.border_properties{
+    border: 5px solid rgb(169, 16, 70);
+    padding: 20px;
+margin: 3rem;
+}
+#box1{
+background-color: cadetblue;
+padding: 20px;
+border: 10px solid black;
+}
+#box2{
+background-color: gold;
+ border-top: 20px solid black ;
+border-bottom: 20px solid black;
+border-left: 10px solid black ;
+border-right: 10px solid black;
+margin-left: 260px; 
+
+
+}
+
+#box3{
+background-color: indianred;
+border: 10px solid black;
+margin-left: 40px;
+}
+.box{
+    height: 200px;
+    width: 200px;
+}
+
+#div_poster{
+ width: 40%;
+ margin-left: 30%;
+margin-top: 10%;
+
+}
+.luffy-poster{
+    /* height: 40%; */
+    width: 100%;
+    border: 10px solid white;
+}
+
+.main-box{
+    background-color: purple;
+    height: 50%;
+    width: 50%;
+}
+.purplebox{
+    background-color: blue;
+    margin: 1rem;
+    border: 1rem solid black;
+}
+.orangebox{
+    background-color: orange;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+#rectangle{
+    height: 200px;
+    width: 500px;
+    background-color: blue;
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+
+#circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    top: 150px;
+    left: 250px;
+}
+
+.red-rectangle{
+    height: 300px;
+    width: 600px;
+    background-color: red;
+}
+.blue-rectangle{
+    height: 100px;
+    width: 600px;
+   position: relative;
+   top: 35%;
+
+    background-color: rgb(123, 0, 255);
+}
+.white-circle{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;position: absolute;
+    left: 40%;
+}
+.white-circle-text{
+    position: absolute;
+    top: 10px;
+    left: 25px;
+}
